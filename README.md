@@ -13,7 +13,7 @@ My foundation is in architecting robust backend systems, and I am driven to expa
 ## 🔭 Currently working on
 
 - Expanding my full-stack development skills
-- Building robust Laravel & React applications
+- Building and deploying robust Laravel applications
 - Enhancing my portfolio with innovative projects
 
 ## 🌱 Currently learning
