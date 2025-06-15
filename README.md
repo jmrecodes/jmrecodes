@@ -34,6 +34,16 @@ My foundation is in architecting robust backend systems, and I am driven to expa
 | **Databases** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
 | **Tools & Methods** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![RESTful API](https://img.shields.io/badge/-RESTful%20API-009688?style=flat-square&logo=fastapi&logoColor=white) ![Agile](https://img.shields.io/badge/-Agile-0052CC?style=flat-square&logo=trello&logoColor=white) |
 
+## 🤖 AI Development & Prompt Engineering
+
+As an AI-focused developer, I leverage cutting-edge tools and methodologies to enhance my workflow and build intelligent applications. My expertise includes:
+
+- **AI-Assisted IDEs**: Proficient in using `Cursor` and `Zed`, next-generation code editors that deeply integrate AI capabilities for faster and more efficient development.
+- **Model Context Protocol (MCP)**: Skilled in utilizing MCP to enhance AI code generators like Cursor and Zed, orchestrating their functionalities through its servers to streamline complex coding tasks.
+- **AI Model Integration**: Experienced in working with various `AI models`, selecting and applying the best models for specific tasks, from code generation to data analysis.
+- **Instructional Design**: Adept at creating detailed `AI rules and markdown instructions` to guide AI systems, ensuring they produce predictable, high-quality, and safe outputs that align with project requirements.
+- **Prompt Engineering**: Specialized in the discipline of `Prompt Engineering`—crafting precise and effective prompts to communicate with AI, maximizing the accuracy and relevance of its responses.
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jmrecodes&show_icons=true&theme=default&hide_border=true&count_private=true&hide_title=true&&hide=contribs)
