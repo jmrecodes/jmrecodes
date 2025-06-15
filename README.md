@@ -50,6 +50,7 @@ My foundation is in architecting robust backend systems, and I am driven to expa
 | **[Brief Markdowns for Gen AIs' reference for UI & UX](https://github.com/jmrecodes/GenAI-UI-UX-Markdowns)** | A collection of Web Design Briefs in Markdown format, developed as a standardized reference for AI code generation. They are structured to ensure that resulting applications consistently adhere to established, global UI/UX standards. |
 | **[Store with basic Cart features](https://github.com/jmrecodes/CartStoreBasicRoleWithStripe)** | A lightweight e-commerce application developed with Laravel 12, designed to showcase a fundamental understanding of backend development. The app provides core shopping cart functionality and processes secure, one-time purchases utilizing Stripe and the Laravel Cashier package. |
 | **[Accumlated HackMD Knowledge Base](https://github.com/jmrecodes/HackMD-notes)** | A personal knowledge hub, designed to capture and share notes on a diverse array of topics, both technical and non-technical. It offers a collection of guides and insights, with subjects ranging from software development and AI to various other areas of interest. |
+| **[Domain Registration and DNS Guide](https://github.com/jmrecodes/domain-registration-dns-guide)** | A guide to understanding domain name registration and DNS management. |
 
 ## 📫 How to reach me
 
