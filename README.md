@@ -61,6 +61,7 @@ As an AI-focused developer, I leverage cutting-edge tools and methodologies to e
 | **[A Practical Guide to Git](https://github.com/jmrecodes/git-guide)** | A streamlined and comprehensive guide to Git, covering fundamental commands, branching, and advanced topics. It is designed to be a practical resource for both beginners and experienced developers. |
 | **[Domain Registration and DNS Guide](https://github.com/jmrecodes/domain-registration-dns-guide)** | A guide to understanding domain name registration and DNS management. |
 | **[Brief Markdowns for Gen AIs' reference for UI & UX](https://github.com/jmrecodes/GenAI-UI-UX-Markdowns)** | A collection of Web Design Briefs in Markdown format, developed as a standardized reference for AI code generation. They are structured to ensure that resulting applications consistently adhere to established, global UI/UX standards. |
+| **[404 Finder](https://github.com/jmrecodes/404-finder)** | A powerful Chrome extension that automatically detects 404 errors and redirects to relevant search results. It helps you find the content you were looking for when pages go missing by creating simple, effective search queries from the broken URL. |
 
 ## 📫 How to reach me
 
