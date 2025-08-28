@@ -62,6 +62,7 @@ As an AI-focused developer, I leverage cutting-edge tools and methodologies to e
 | **[Domain Registration and DNS Guide](https://github.com/jmrecodes/domain-registration-dns-guide)** | A guide to understanding domain name registration and DNS management. |
 | **[Brief Markdowns for Gen AIs' reference for UI & UX](https://github.com/jmrecodes/GenAI-UI-UX-Markdowns)** | A collection of Web Design Briefs in Markdown format, developed as a standardized reference for AI code generation. They are structured to ensure that resulting applications consistently adhere to established, global UI/UX standards. |
 | **[404 Finder](https://github.com/jmrecodes/404-finder)** | A powerful Chrome extension that automatically detects 404 errors and redirects to relevant search results. It helps you find the content you were looking for when pages go missing by creating simple, effective search queries from the broken URL. |
+| **[Laravel Repository Pattern Commands](https://github.com/jmrecodes/laravel-repository-pattern-commands)** | A Laravel application implementing the Repository Pattern with custom Artisan commands for a clean, scalable, and maintainable architecture. Features custom `make:repository` and `make:service` commands to streamline development, along with a base repository that includes common Eloquent methods to reduce boilerplate code. |
 
 ## 📫 How to reach me
 
